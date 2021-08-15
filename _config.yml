@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francisco J. Santamarina"
-  avatar           : "Santamarina_Headshot.png"
+  avatar           : images/"Santamarina_Headshot.png"
   bio              : "PhD Candidate focusing on nonprofit and NGO research, text analysis, rationalization of processes, and inequality."
   location         : "Seattle, WA"
   employer         : #"The Evans School, University of Washington"
