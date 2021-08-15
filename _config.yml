@@ -79,6 +79,7 @@ analytics:
 
 
 # Site Author
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 author:
   name             : "Francisco J. Santamarina"
   avatar           : "Santamarina_Headshot.png"
@@ -89,6 +90,7 @@ author:
   university       : "University of Washington"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "fjsantam@uw.edu"  
+- title            : "Links"
   uri              :
   bitbucket        :
   codepen          :
