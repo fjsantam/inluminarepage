@@ -84,7 +84,8 @@ author:
   avatar           : "Santamarina_Headshot.png"
   bio              : "PhD Candidate focusing on nonprofit and NGO research, text analysis, rationalization of processes, and inequality."
   location         : "Seattle, WA"
-  employer         : "The Evans School, University of Washington"
+  employer         : #"The Evans School, University of Washington"
+  school           : "The Evans School"
   university       : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uafAdMMAAAAJ&hl=en"
