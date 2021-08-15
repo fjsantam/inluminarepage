@@ -28,9 +28,15 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      
       <!- Comments in html -->
       <!- My custom modifications follow, based on the ResearchGate line -->      
-      <li><a href="https://evans.uw.edu/"><i class="fas fa-school"></i> The Evans School </a></li>     
+      <li><a href="https://evans.uw.edu/"><i class="fas fa-school"></i> The Evans School </a></li>
+      <li><a href="https://www.washington.edu/"><i class="fas fa-university"></i> University of Washington </a></li>
+      <li><a href="https://evans.uw.edu/profile/francisco-santamarina/"><i class="far fa-id-badge"></i> School Profile Page </a></li>
+      <i class="fal fa-horizontal-rule"></i>
+      <!- Custom code ends -->
+      
       
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
