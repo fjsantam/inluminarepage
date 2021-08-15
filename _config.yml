@@ -87,18 +87,6 @@ author:
   bio              : "PhD Candidate focusing on nonprofit and NGO research, text analysis, rationalization of processes, and inequality."
   location         : "Seattle, WA"
   employer         : #"The Evans School, University of Washington"
-  links:
-    - label: "The Evans School"
-      icon: "fas fa-school"
-      url: "https://evans.uw.edu/"
-    - label: "University of Washington"
-      icon: "fas fa-university"
-      url: "https://www.washington.edu/"
-    - label: "School Profile Page"
-      icon: "far fa-id-badge"
-      url: "https://evans.uw.edu/profile/francisco-santamarina/"
-  school           : #"The Evans School"
-  university       : #"University of Washington"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "fjsantam@uw.edu"  
   uri              :
