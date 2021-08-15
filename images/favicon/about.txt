@@ -4,3 +4,13 @@ This favicon was generated using the following font:
 - Font Author: Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
 - Font Source: http://fonts.gstatic.com/s/oswald/v40/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUFoZAaRliE.ttf
 - Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
+
+
+Source: https://favicon.io/favicon-generator/
+Input values:
+- Text: FJS
+- Background: Square
+- Font Family: Oswald
+- Font Size: 95
+- Font Color: #4B2E83
+- Background Color: #B7A57A
