@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Francisco, a PhD Candidate at the [Evans School of Public Policy & Governance](https://evans.uw.edu/) at the [University of Washington](https://www.washington.edu/). My goal is to explore avenues of interdisciplinary research to shed light on both theoretical and empirical challenges using cutting-edge methods and datasets. My focus is on the nonprofit sector in the United States and the international development sector globally, and I am exploring both in my dissertation research. I use qualitative, quantitative and mixed methods in my research, and have been working extensively to implement machine learning and natural language processing (NLP) techniques in this research space.
+Hello! I am Francisco, a PhD Candidate at the [Evans School of Public Policy & Governance](https://evans.uw.edu/) at the [University of Washington](https://www.washington.edu/). My goal is to explore avenues of interdisciplinary research to shed light on both theoretical and empirical challenges using cutting-edge methods and datasets. My focus is on the nonprofit sector in the United States and the international development sector globally. I am exploring both in my dissertation research, which focuses on rationalization (or the formalization of processes) and its potential effects for organizations. I use qualitative, quantitative and mixed methods in my research, and have been working extensively to implement machine learning and natural language processing (NLP) techniques in this research space.
 
 ## My Work and Research
 
