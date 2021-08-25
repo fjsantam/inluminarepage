@@ -2,7 +2,7 @@
 title: "Characterization and engineering properties of dry and ponded class-F fly ash"
 collection: publications
 permalink: /publication/2019-01-10-characterization-of-fly-ash
-excerpt: 'Characterization studies conducted on Class-F fly-ash specimens gathered from different producers in the southeastern United States confirm general trends reported for fly ash worldwide. [See abstract at link above]'
+excerpt: 'Characterization studies conducted on Class-F fly-ash specimens gathered from different producers in the southeastern United States confirm general trends reported for fly ash worldwide. [**See abstract at link above**]'
 date: 2019-01-10
 venue: 'Journal of Geotechnical and Geoenvironmental Engineering'
 paperurl: 'https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0001986'
