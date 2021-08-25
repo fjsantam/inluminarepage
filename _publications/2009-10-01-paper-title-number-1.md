@@ -2,14 +2,14 @@
 title: "Characterization and engineering properties of dry and ponded class-F fly ash"
 collection: publications
 permalink: /publication/2019-01-10-characterization-of-fly-ash
-excerpt: 'Characterization studies conducted on Class-F fly-ash specimens gathered from different producers in the southeastern United States confirm general trends reported for fly ash worldwide. [See Abstract]'
+excerpt: 'Characterization studies conducted on Class-F fly-ash specimens gathered from different producers in the southeastern United States confirm general trends reported for fly ash worldwide. [See abstract at link above]'
 date: 2019-01-10
 venue: 'Journal of Geotechnical and Geoenvironmental Engineering'
 paperurl: 'https://ascelibrary.org/doi/full/10.1061/%28ASCE%29GT.1943-5606.0001986'
 citation: 'Bachus, R.C., Terzariol, M., Pasten, C., Chong, S.H., Dai, S., Cha, M.S., Kim, S., Jang, J.,
 Papadopoulos, E., Roshankhah, S., Lei, L., Garcia, A., Park, J., Sivaram, A., __Santamarina, F. J.__,
-Ren, X., Santamarina, J.C. (2019). "Characterization and Engineering Properties of Dry and Ponded
-Class-F Fly Ash." <i>Journal of Geotechnical and Geoenvironmental Engineering, 145</i>(3), 04019003.'
+Ren, X., Santamarina, J.C. (2019). Characterization and Engineering Properties of Dry and Ponded
+Class-F Fly Ash. <i>Journal of Geotechnical and Geoenvironmental Engineering, 145</i>(3), 04019003.'
 ---
 
 ## Abstract
@@ -20,5 +20,5 @@ Characterization studies conducted on Class-F fly-ash specimens gathered from di
 
 Bachus, R.C., Terzariol, M., Pasten, C., Chong, S.H., Dai, S., Cha, M.S., Kim, S., Jang, J.,
 Papadopoulos, E., Roshankhah, S., Lei, L., Garcia, A., Park, J., Sivaram, A., __Santamarina, F. J.__,
-Ren, X., Santamarina, J.C. (2019). "Characterization and Engineering Properties of Dry and Ponded
-Class-F Fly Ash." <i>Journal of Geotechnical and Geoenvironmental Engineering, 145</i>(3), 04019003.
+Ren, X., Santamarina, J.C. (2019). Characterization and Engineering Properties of Dry and Ponded
+Class-F Fly Ash. <i>Journal of Geotechnical and Geoenvironmental Engineering, 145</i>(3), 04019003.
