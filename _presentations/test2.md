@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "What are nonprofits really getting? A proposed typology to categorize skilled voluntary labor and donated goods and services"
 collection: presentations
 type: "presentations"
 permalink: /talks/2013-03-01-tutorial-1
