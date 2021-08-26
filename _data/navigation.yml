@@ -6,6 +6,9 @@ main:
   - title: "Presentations"
     url: /presentations/    
 
+  - title: "Talk Map"
+    url: /talkmap/    
+
   - title: "Teaching"
     url: /teaching/    
     
