@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talk Map"
-permalink: /talkmap/
+<!--permalink: /talkmap/-->
 author_profile: true
 ---
 <!-- https://github.com/academicpages/academicpages.github.io/blob/25c30de2b4ce3e3f23559384699bb4b9865d6473/_pages/talkmap.html -->
