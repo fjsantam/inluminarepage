@@ -8,6 +8,7 @@ author_profile: true
 
 This map is generated from a [Jupyter Notebook/Lab file](https://github.com/fjsantam/fjsantam.github.io/tree/master/_presentations) (source file [here](https://github.com/academicpages/academicpages.github.io)), which mines the location fields in the .md files in \_presentations.
 
+For more information on the presentations that I gave at each location, please visit my [CV](/cv/) and [presentations](/presentations/) pages.
 
 <iframe src="https://fjsantam.github.io/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
