@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have taught or contributed to numerous courses since I began as a teaching assistant in the Autumn quarter of 2018, summarized in the table below. For a summary of evaluations or detailed evaluations, please [email me](mailto:fjsantam@uw.edu).
+I have taught or contributed to numerous courses since I began as a teaching assistant in the Autumn quarter of 2018, as presented in the table below. For a summary of evaluations or detailed evaluations, please [email me](mailto:fjsantam@uw.edu).
 
 ## Teaching History
 
@@ -16,9 +16,9 @@ I have taught or contributed to numerous courses since I began as a teaching ass
 | Teaching Assistant | [Public Policy Analysis](https://evans.uw.edu/courses/pubpol-513-public-policy-analysis/) | PUBPOL 513 | Spring 2021<br />Spring 2020<br />Spring 2019 | [Marieka Klawitter](https://evans.uw.edu/profile/marieka-klawitter/)<br />[Karin Martin](https://evans.uw.edu/profile/karin-martin/)<br />[Karin Martin](https://evans.uw.edu/profile/karin-martin/) |
 | Teaching Assistant | [Financial Management and Budgeting](https://evans.uw.edu/courses/pubpol-522-financial-management-and-budgeting/) | PUBPOL 522 | Autumn 2020<br />Autumn 2019<br />Autumn 2018 | [Sharon Kioko](https://evans.uw.edu/profile/sharon-kioko/)<br />[Sharon Kioko](https://evans.uw.edu/profile/sharon-kioko/)<br />[Justin Marlowe](https://harris.uchicago.edu/directory/justin-marlowe) |
 
-Please find below short summaries of each course, from the official UW course descriptions.
-
 ## Course Descriptions
+
+Please find below short summaries of each course, from the official UW course descriptions.
 
 | Course Title | Course Number | Course Description |
 |--------------|---------------|--------------------|
