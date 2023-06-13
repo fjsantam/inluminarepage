@@ -1,17 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /about/
 
-  - title: "Presentations"
-    url: /presentations/    
+  - title: "Offerings"
+    url: /offerings/    
 
-  - title: "Talk Map"
-    url: /talkmap/    
+  - title: "Contact"
+    url: /contact/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-
+  
