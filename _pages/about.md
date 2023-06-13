@@ -12,7 +12,7 @@ redirect_from:
 
 Our goal is to empower your organization (nonprofit, government agency, or business) to create and use data necessary for critical insights on what you do and how you do it. 
 
-### What we do and how we do it
+###What we do and how we do it
 
 To accomplish this, we:
 
@@ -22,7 +22,7 @@ To accomplish this, we:
 *	Locate opportunities for efficiency gains
 *	Enhance your capacity to maintain and increase the scale of your impact
 
-### Why us
+###Why us
 
 Reasons why you need this service:
 
