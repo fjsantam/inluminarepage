@@ -31,9 +31,15 @@
       
       <!-- Comments in html -->
       <!-- My custom modifications follow, based on the ResearchGate line -->      
+      <!-- 
       <li><a href="https://evans.uw.edu/"><i class="fas fa-school"></i> The Evans School </a></li>
       <li><a href="https://www.washington.edu/"><i class="fas fa-university"></i> University of Washington </a></li>
-      <li><a href="https://evans.uw.edu/profile/francisco-santamarina/"><i class="fas fa-user-circle"></i> School Profile Page </a></li>
+      <li><a href="https://evans.uw.edu/profile/francisco-santamarina/"><i class="fas fa-user-circle"></i> School Profile Page </a></li> -->
+      
+      <!-- Moved LinkedIn to be above email -->
+      {% if author.linkedin %}
+        <li><a href="https://www.linkedin.com/company/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
@@ -57,9 +63,7 @@
       {% if author.orcid %}
         <li><a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
-      {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/company/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-      {% endif %}
+      <!-- Moved LinkedIn up from here -->
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
