@@ -82,13 +82,13 @@ analytics:
 # For guidance, see: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 # For code to edit, see: https://github.com/fjsantam/fjsantam.github.io/blob/master/_includes/author-profile.html
 author:
-  name             : "Francisco J. Santamarina"
-  avatar           : "Santamarina_Headshot.png"
-  bio              : "PhD Candidate focusing on nonprofit and NGO research, text analysis, rationalization of processes, and inequality."
+  name             : #"Francisco J. Santamarina"
+  avatar           : #"Santamarina_Headshot.png"
+  bio              : "We empower organizations to understand the resources necessary to sustain and magnify their impact."
   location         : "Seattle, WA"
   employer         : #"The Evans School, University of Washington"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "fjsantam@uw.edu"  
+  email            : "fjs@inluminare.co"  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fjsantam"
-  googlescholar    : "https://scholar.google.com/citations?user=uafAdMMAAAAJ&hl=en"
+  github           : #"fjsantam"
+  googlescholar    : #"https://scholar.google.com/citations?user=uafAdMMAAAAJ&hl=en"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fjsantamarina/"
-  orcid            : "0000-0003-1724-8769" #https://orcid.org/0000-0003-1724-8769
+  linkedin         : "inluminare"
+  orcid            : #"0000-0003-1724-8769" #https://orcid.org/0000-0003-1724-8769
   pinterest        :
-  researchgate     : "https://www.researchgate.net/profile/Francisco-Santamarina"
+  researchgate     : #"https://www.researchgate.net/profile/Francisco-Santamarina"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
