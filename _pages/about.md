@@ -1,8 +1,5 @@
 ---
 permalink: /
-title: "About Me - Francisco J. Santamarina"
-excerpt: "About me"
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -26,4 +23,4 @@ Reasons why you need this service:
 *	Enhanced historical and future expenditure data to inform making and applying for grants
 *	Corporate social responsibility – shedding light on current DEI practices
 
-Please give me a call or send an email to learn more!
+Please [contact us](/contact/) to learn more!
