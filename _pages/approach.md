@@ -9,7 +9,7 @@ author_profile: true
 
 The approach that we take to our work is reflected in our mission, the vision of what we aim to accomplish, and the values that drive our intentions as we partner with you.
 
-# Our Mission and Vision
+###Our mission and vision
 
 Inluminare's **mission** is visible on every page of this website: 
 
@@ -21,7 +21,7 @@ For that reason, our **vision** is
 
 > To create a world where the critical resources for success can be clearly identified, anticipated, and organized.
 
-# Our Values
+###Our values
 
 At Inluminare, we have certain values:
 
