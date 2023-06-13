@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Francisco J. Santamarina"
+title                    : "Inluminare"
 title_separator          : "-"
-name                     : &name "Francisco J. Santamarina"
-description              : &description "Scholar of Nonprofits and NGOs"
-url                      : https://fjsantam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : #&name "Francisco J. Santamarina"
+description              : #&description "Scholar of Nonprofits and NGOs"
+url                      : inluminare.co # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fjsantam/fjsantam.github.io"
+repository               : "fjsantam/inluminarepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 # For guidance, see: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 # For code to edit, see: https://github.com/fjsantam/fjsantam.github.io/blob/master/_includes/author-profile.html
 author:
-  name             : "Francisco J. Santamarina"
-  avatar           : "Santamarina_Headshot.png"
-  bio              : "PhD Candidate focusing on nonprofit and NGO research, text analysis, rationalization of processes, and inequality."
+  name             : #"Francisco J. Santamarina"
+  avatar           : #"Santamarina_Headshot.png"
+  bio              : #"PhD Candidate focusing on nonprofit and NGO research, text analysis, rationalization of processes, and inequality."
   location         : "Seattle, WA"
   employer         : #"The Evans School, University of Washington"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "fjsantam@uw.edu"  
+  email            : "fjs@inluminare.co"  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fjsantam"
-  googlescholar    : "https://scholar.google.com/citations?user=uafAdMMAAAAJ&hl=en"
+  github           : #"fjsantam"
+  googlescholar    : #"https://scholar.google.com/citations?user=uafAdMMAAAAJ&hl=en"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fjsantamarina/"
-  orcid            : "0000-0003-1724-8769" #https://orcid.org/0000-0003-1724-8769
+  linkedin         : "https://www.linkedin.com/company/inluminare/"
+  orcid            : #"0000-0003-1724-8769" #https://orcid.org/0000-0003-1724-8769
   pinterest        :
-  researchgate     : "https://www.researchgate.net/profile/Francisco-Santamarina"
+  researchgate     : #"https://www.researchgate.net/profile/Francisco-Santamarina"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -177,18 +177,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  about:
     output: true
     permalink: /:collection/:path/
-  publications:
+  offerings:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  contact:
     output: true
     permalink: /:collection/:path/
-  presentations:
-    output: true
-    permalink: /:collection/:path/
+  #presentations:
+    #output: true
+    #permalink: /:collection/:path/
 
 
 # Defaults
