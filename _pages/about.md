@@ -1,17 +1,28 @@
 ---
 permalink: /
+title: "Welcome to Inluminare"
+excerpt: "Welcome"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Our goal is to empower your organization (nonprofit, government agency, or business) to create and use data necessary for critical insights on what you do and how you do it. To accomplish this, we:
+# What We Do
+
+Our goal is to empower your organization (nonprofit, government agency, or business) to create and use data necessary for critical insights on what you do and how you do it. 
+
+# How We Do It
+
+To accomplish this, we:
 
 * Identify portfolios of resources used in program and service delivery
 * Assign financial valuations using standard and innovative practices
 *	Help you identify non-financial valuations for your resources
 *	Locate opportunities for efficiency gains
 *	Enhance your capacity to maintain and increase the scale of your impact
+
+# Why Us
 
 Reasons why you need this service:
 
