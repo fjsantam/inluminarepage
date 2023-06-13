@@ -9,8 +9,10 @@ To build your resource portfolio for a single program or service, or resource in
 
 Oftentimes, how we think of a “resource” can be limited by the perceived difficulty in measuring it. For this reason, we offer both financial valuations as well as a range of non-financial valuations of your resources, all in the service of achieving our mission and vision.
 
+###Creating your resource portfolio
 Our default offering is the creation of the resource portfolio for one of your programs or services, which includes financial valuations as well as your choice of non-financial valuations. We offer virtual and in-person services to build the portfolio. 
 
+###Analyzing your portfolio
 Additional analyses are available upon request, including:
 * Portfolio review focused on efficiency and efficacy gains 
     * We summarize trends within and across different classes of resources within the portfolio    
@@ -18,3 +20,5 @@ Additional analyses are available upon request, including:
 * Review of resource alignment with internal guidance documents, such as strategic plans and logic models
 * Cost benefit and break even analyses
 * Evaluations of offering performance relative to resources used
+
+Creating multiple portfolios, or your resource inventory, can further enhance the insights available from the analyses by allowing us to review portfolios on their own as well as trends across your organization. When possible, we encourage building towards this deeper and more thorough understanding.
