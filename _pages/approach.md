@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-The approach that we take to our work is reflected in our mission, the vision of what we aim to accomplish, and the values that drive our intentions as we partner with you. We believe in a holistic approach that leverages quantitative and qualitative data, reviewing financial documentaion and reports as well as interviewing staff members to identify, just what *were* the resources that you used? Oftentimes, how we think of a "resource" can be limited by the perceived difficulty in measuring it. For this reason, we offer both financial valuations as well as a range of non-financial valuations of your resources, all in the service of our mission and vision.
+The approach that we take to our work is reflected in our mission, the vision of what we aim to accomplish, and the values that drive our intentions as we partner with you.
 
 # Our Mission and Vision
 
