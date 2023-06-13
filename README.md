@@ -1,6 +1,6 @@
-# fjsantam.github.io
+# inluminare.co
 
-This repository is forked from [academicpages](https://github.com/academicpages/academicpages.github.io), a Github Pages template for academic personal websites, itself forked from mmistakes/minimal-mistakes. 
+This repository is cloned from [fjsantam.github.io](https://github.com/fjsantam/fjsantam.github.io), itself forked from [academicpages](https://github.com/academicpages/academicpages.github.io), a Github Pages template for academic personal websites, itself forked from mmistakes/minimal-mistakes. 
 
 I have further modified some of the underlying HTML and Python code, for example: 
 * edits to the [author profile](_includes/author-profile.html) portion of the website 
