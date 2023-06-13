@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+We look forward to hearing from you! For questions, opportunities for partnership, or to share your thoughts, please fill out the form below.
+
 <form
   action="https://formspree.io/f/xeqwyojr"
   method="POST"
@@ -16,6 +18,10 @@ redirect_from:
   <label>
     Your email:
     <input type="email" name="email">
+  </label>
+  <label>
+    Subject line:
+    <input tpye="text" name="subject">
   </label>
   <label>
     Your message:
