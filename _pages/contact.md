@@ -9,41 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
-<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  /* paste this line in verbatim */
-  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-  /* customize formbutton below*/     
-  formbutton("create", {
-    action: "https://formspree.io/f/xeqwyojr",
-    title: "How can we help?",
-    fields: [
-      { 
-        type: "email", 
-        label: "Email:", 
-        name: "email",
-        required: true,
-        placeholder: "your@email.com"
-      },
-      {
-        type: "textarea",
-        label: "Message:",
-        name: "message",
-        placeholder: "What's on your mind?",
-      },
-      { type: "submit" }      
-    ],
-    styles: {
-      title: {
-        backgroundColor: "gray"
-      },
-      button: {
-        backgroundColor: "gray"
-      }
-    }
-  });
-</script>
+<div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+                <form action="https://formspree.io/mpzyqdng" method="POST">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+
 
 
 
