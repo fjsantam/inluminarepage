@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to Inluminare"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
