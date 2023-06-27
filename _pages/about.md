@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Our goal is to empower your organization (nonprofit, government agency, or business) to create and use data necessary for critical insights on what you do and how you do it. 
+Our goal is to empower your organization to create and use data necessary for critical insights on what you do and how you do it through our custom approach to input evaluation. 
 
 ### What we do and how we do it
 
