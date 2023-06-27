@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-Inventory, staff knowledge, that special something that makes your organization unique - each of these things are examples of resources, and ones that are essential for your organization to do what it does best. At the same time, there are many other resources that are essential for your organization to succeed that are not as obvious, visible, or measurable. Before we talk about why that matters, we want to establish some important definitions. 
+Inventory, staff knowledge, that special something that makes your organization unique - each of these things are examples of resources, and ones that are essential for your organization to do what it does best. At the same time, there are many other resources that are essential for your organization to succeed that are not as obvious, visible, or measurable. Our custom approach to input evaluation helps shed light on these essential resources. To help you understand how we create value, we want to establish some important definitions. 
 
 ### What is a resource?
 
