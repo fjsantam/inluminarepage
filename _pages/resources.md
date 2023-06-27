@@ -24,7 +24,6 @@ When we want to understand how much we spent on achieving our desired tomato sau
 
 There are many tools that focus principally (and some exclusively) on processes that also address inputs and resources, but all leave something to be desired. For example, a *SIPOC diagram* is a way to visually capture how we produce a pizza, but because the focus is on the process, the full range of necessary inputs is often left unaddressed. In fact, the common guidance when creating a SIPOC diagram is to focus on the raw, physical goods that are most important to your process!
 
-![SIPOC for tomato pasta](/images/draft SIPOC - tomato sauce with red box - no saucepan.jpg)
 <img src="/images/draft SIPOC - tomato sauce with red box - no saucepan.jpg"  width="80%" height="80%">
 
 
@@ -32,8 +31,7 @@ In the diagram above, you can see how a SIPOC diagram and similar tools can be i
 
 For nonprofits and government agencies, a similar tool is used before starting a project to establish an expected “theory of change,” or what needs to happen in order for something in society to be different. This is often referred to as a *logic model,* a visual representation of the various relationships between our inputs, processes, outputs, and desired short- and long-term outcomes. 
 
-![Kellogg Foundation logic model](/images/kellogg logic model with red box.jpg)
-<img src="/images/kellogg logic model with red box.jpg"  width="50%" height="50%">
+<img src="/images/kellogg logic model with red box.jpg"  width="80%" height="80%">
 
 The logic model above is an excerpt from the Kellogg Foundation’s “Logic Model Development Guide,” commonly used to establish best practices of what a logic model should look like or accomplish. The red box captures how resources are the first step in any effort to produce outputs and achieve some kind of outcome. At the same time, it is only meant to capture “certain,” major resources – ones that are obvious beforehand but, again, may not prove to be as important in retrospect.
 
