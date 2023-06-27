@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "What do we mean by resources?"
+title: "What we mean by resources"
 permalink: /resources/
 author_profile: true
 ---
