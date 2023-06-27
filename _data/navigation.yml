@@ -1,7 +1,10 @@
 # main links links
 main:
   - title: "Our Approach"
-    url: /approach/
+    url: /approach/    
+
+  - title: "What we mean by resources"
+    url: /resources/    
 
   - title: "Offerings"
     url: /offerings/    
