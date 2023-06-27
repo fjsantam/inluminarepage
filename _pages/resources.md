@@ -13,7 +13,7 @@ At Inluminare, we define a **resource** as an asset controlled by a firm, or eve
 
 ### What is an input?
 
-We refer to inputs as what is consumed during a process to achieve a desired output. For example, if I am making a tomato sauce, 
+We refer to **inputs** as what is consumed during a process to achieve a desired output. For example, if I am making a tomato sauce, 
 *	the output is the completed, ready-to-eat sauce, 
 *	the process is assembling the ingredients, cooking, and mixing as appropriate, and 
 *	the inputs are the ingredients, the recipe, the various cooking tools, and other knowledge about what makes a really delicious tomato sauce (we recommend [this three-ingredient recipe!](https://smittenkitchen.com/2010/01/tomato-sauce-with-butter-and-onions/)).
@@ -22,15 +22,18 @@ When we want to understand how much we spent on achieving our desired tomato sau
 
 ### Why not focus more on the process?
 
-There are many tools that focus principally (and some exclusively) on processes that also address inputs and resources, but all leave something to be desired. For example, a SIPOC diagram is a way to visually capture how we produce a pizza, but because the focus is on the process, the full range of necessary inputs is often left unaddressed. In fact, the common guidance when creating a SIPOC diagram is to focus on the raw, physical goods that are most important to your process!
+There are many tools that focus principally (and some exclusively) on processes that also address inputs and resources, but all leave something to be desired. For example, a *SIPOC diagram* is a way to visually capture how we produce a pizza, but because the focus is on the process, the full range of necessary inputs is often left unaddressed. In fact, the common guidance when creating a SIPOC diagram is to focus on the raw, physical goods that are most important to your process!
 
 ![SIPOC for tomato pasta](/images/draft SIPOC - tomato sauce with red box - no saucepan.jpg)
+<img src="https://github.com/fjsantam/inluminarepage/blob/main/images/draft%20SIPOC%20-%20tomato%20sauce%20with%20red%20box%20-%20no%20saucepan.jpg"  width="80%" height="80%">
+
 
 In the diagram above, you can see how a SIPOC diagram and similar tools can be instrumental in helping you begin the process of what resources you will need to produce a particular output. But, as we see in the red box, we lose detail in identifying all of our resources. It could also be that there is another essential resource that we should include, but we will only discover this once we have actually made the sauce – such as a sauce pan! 
 
-For nonprofits and government agencies, a similar tool is used before starting a project to establish an expected “theory of change,” or what needs to happen in order for something in society to be different. This is often referred to as a logic model, a visual representation of the various relationships between our inputs, processes, outputs, and desired short- and long-term outcomes. 
+For nonprofits and government agencies, a similar tool is used before starting a project to establish an expected “theory of change,” or what needs to happen in order for something in society to be different. This is often referred to as a *logic model,* a visual representation of the various relationships between our inputs, processes, outputs, and desired short- and long-term outcomes. 
 
 ![Kellogg Foundation logic model](/images/kellogg logic model with red box.jpg)
+<img src="https://github.com/fjsantam/inluminarepage/blob/main/images/kellogg%20logic%20model%20with%20red%20box.jpg"  width="50%" height="50%">
 
 The logic model above is an excerpt from the Kellogg Foundation’s “Logic Model Development Guide,” commonly used to establish best practices of what a logic model should look like or accomplish. The red box captures how resources are the first step in any effort to produce outputs and achieve some kind of outcome. At the same time, it is only meant to capture “certain,” major resources – ones that are obvious beforehand but, again, may not prove to be as important in retrospect.
 
