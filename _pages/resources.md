@@ -31,7 +31,7 @@ In the diagram above, you can see how a SIPOC diagram and similar tools can be i
 
 For nonprofits and government agencies, a similar tool is used before starting a project to establish an expected “theory of change,” or what needs to happen in order for something in society to be different. This is often referred to as a *logic model,* a visual representation of the various relationships between our inputs, processes, outputs, and desired short- and long-term outcomes. 
 
-<img src="/images/kellogg logic model with red box.jpg"  width="80%" height="80%">
+<img src="/images/kellogg logic model with red box.jpg"  width="70%" height="70%">
 
 The logic model above is an excerpt from the Kellogg Foundation’s “Logic Model Development Guide,” commonly used to establish best practices of what a logic model should look like or accomplish. The red box captures how resources are the first step in any effort to produce outputs and achieve some kind of outcome. At the same time, it is only meant to capture “certain,” major resources – ones that are obvious beforehand but, again, may not prove to be as important in retrospect.
 
