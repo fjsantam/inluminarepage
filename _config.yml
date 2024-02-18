@@ -50,10 +50,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
-background: filename.png
+background: "https://github.com/fjsantam/inluminarepage/blob/9adcb4a18e963349ab7e7cb3d38cce6c938b4723/assets/images/possibilities_240217_noYellow.png"
 
 image:
-  background: https://github.com/fjsantam/inluminarepage/blob/9adcb4a18e963349ab7e7cb3d38cce6c938b4723/assets/images/possibilities_240217_noYellow.png
+  background: "https://github.com/fjsantam/inluminarepage/blob/9adcb4a18e963349ab7e7cb3d38cce6c938b4723/assets/images/possibilities_240217_noYellow.png"
 
 
 # SEO Related
@@ -69,7 +69,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "https://github.com/fjsantam/inluminarepage/blob/9adcb4a18e963349ab7e7cb3d38cce6c938b4723/assets/images/possibilities_240217_noYellow.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
