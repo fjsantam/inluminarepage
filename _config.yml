@@ -49,6 +49,9 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+background: filename.png
+
 image:
   background: possibilities_240217_noYellow.png
 
