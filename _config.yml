@@ -53,7 +53,7 @@ atom_feed:
 background: filename.png
 
 image:
-  background: possibilities_240217_noYellow.png
+  background: https://github.com/fjsantam/inluminarepage/blob/9adcb4a18e963349ab7e7cb3d38cce6c938b4723/assets/images/possibilities_240217_noYellow.png
 
 
 # SEO Related
