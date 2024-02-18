@@ -88,3 +88,18 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+<!-- Adding background image, per last post on https://talk.jekyllrb.com/t/how-to-add-a-background-image-to-entire-site/4198/6-->
+<html>
+    <head>
+    <style>
+    body {
+      background-image: url('{{ site.baseurl }}/assets/images/possibilities_240217_noYellow.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+    </style>
+    </head>
+
+    </html>
