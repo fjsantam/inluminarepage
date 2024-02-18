@@ -12,5 +12,5 @@ main:
   - title: "Contact"
     url: /contact/    
 
-background-image: url('assets/images/possibilities_240217_noYellow.png');
-}
+image:
+  background: possibilities_240217_noYellow.png
