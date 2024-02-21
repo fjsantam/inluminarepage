@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## The question that inspires us
+## The questions that inspires us
 
 > __How do we know how effective a nonprofit’s program is?__
 
