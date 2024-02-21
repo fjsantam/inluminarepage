@@ -2,9 +2,9 @@
 layout: single
 title: "Products and Services"
 permalink: /products/
-author_profile: true
+author_profile: false
 toc: true
-toc_sticky: false
+toc_sticky: true
 ---
 {% include toc %}
 
