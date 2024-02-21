@@ -7,6 +7,8 @@ toc: true
 toc_sticky: false
 ---
 
+You can learn more about our upcoming products below.
+
 ## Váles
 ### What it does
 It takes the challenge out of estimating monetary value for even hard-to-measure resources, such as contributed services, using machine learning and discriminative AI.  
@@ -41,4 +43,14 @@ Reta categorizes and assigns meaningful values to the resources used by nonprofi
 ### What to expect after using it
 With a completed resource portfolio for a program, nonprofits and foundations will be able to determine what was necessary for that program’s success, how to ensure its sustainability in the future, what are essential resources and varying costs that would be associated with scaling up, and better direct strategic planning and development efforts to secure essential resources, both now and in the future. They can also perform more accurate and comprehensive performance evaluations to better calculate returns per dollar spent, the scale of their impact, and financial ratios such as program-expense ratios.  
 *What resources do I need to secure to make this program work somewhere else?*
+
+## Implementation Support Services	
+Inluminare wants to be a partner with our users to better support them. To complement our software, we offer implementation support services to help new organizations take advantage of our software by:
+*	Integrating with existing reporting and evaluation practices
+*	Helping users develop new workflows to capture essential data
+*	Providing guidance on generating meaningful insights through reporting and analysis
+*	Creating opportunities for all levels of your organization to find opportunities to benefit
+
+We intend to offer these services at software launch.
+
 
