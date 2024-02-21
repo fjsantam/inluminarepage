@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 toc-location: left
 ---
-{% include toc %}
+
 
 You can learn more about our upcoming products below.
 
