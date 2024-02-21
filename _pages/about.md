@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /about/
 title: "About Us"
 author_profile: true
