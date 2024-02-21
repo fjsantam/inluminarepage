@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Welcome to Inluminare"
 permalink: /
 author_profile: true
