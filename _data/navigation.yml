@@ -4,7 +4,7 @@ main:
     url: /about/    
 
   - title: "Products and Services"
-    url: /offerings/    
+    url: /products/    
 
   - title: "Connect With Us"
     url: /contact/    
