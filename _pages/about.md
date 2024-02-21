@@ -9,7 +9,7 @@ author_profile: true
 
 ## The question that inspires us
 
-__How do we know how effective a nonprofit’s program is?__
+> __How do we know how effective a nonprofit’s program is?__
 
 The most common approach to understanding program effectiveness is to review what was accomplished and how much was spent. In logic model terms, what outcomes did we get for the outputs produced from the inputs we used?
 
