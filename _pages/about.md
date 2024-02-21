@@ -35,7 +35,7 @@ As his interest in the intersection of social programs and financial management 
 
 Throughout his graduate studies, he worked on issues faced by U.S. nonprofits and NGOs abroad. In addition to exploring how COVID-19 affected relationships between foundations and nonprofit grantees, he worked on projects in the following areas:
 * *Big data*. Contributed to pioneering efforts to make IRS nonprofit datasets usable for the public, established research and machine learning standards in response to these datasets, and challenged assumptions of how to measure nonprofit performance.
-•	*Creating nonprofits*. Researched how community political beliefs of communities affects the nonprofits created and identified relationships between gentrification and starting nonprofit.
+* *Creating nonprofits*. Researched how community political beliefs of communities affects the nonprofits created and identified relationships between gentrification and starting nonprofit.
 * *International Development*. Worked on cost-benefit analyses of NGO programs and explored implications of impact evaluation requirements for NGOs.
 
 He is also an active member of ARNOVA and participates in numerous other conferences, associations, and research affiliations. He currently works on a performance audit of special education practices in Washington State.
