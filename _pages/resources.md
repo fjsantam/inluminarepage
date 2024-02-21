@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "What we mean by resources"
 permalink: /resources/
 author_profile: true
