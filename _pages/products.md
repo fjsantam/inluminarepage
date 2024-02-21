@@ -6,6 +6,7 @@ author_profile: true
 toc: true
 toc_sticky: false
 ---
+{% include toc %}
 
 You can learn more about our upcoming products below.
 
