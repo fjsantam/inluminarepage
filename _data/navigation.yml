@@ -1,14 +1,11 @@
 # main links links
 main:
-  - title: "Our Approach"
-    url: /approach/    
+  - title: "About Us"
+    url: /about/    
 
-  - title: "What we mean by resources"
-    url: /resources/    
-
-  - title: "Offerings"
+  - title: "Products and Services"
     url: /offerings/    
 
-  - title: "Contact"
+  - title: "Connect With Us"
     url: /contact/    
 
