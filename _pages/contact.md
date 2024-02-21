@@ -1,15 +1,13 @@
 ---
-layout: archive
-title: "Contact"
+layout: single
+title: "Connect With Us"
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-We look forward to hearing from you! For questions, opportunities for partnership, or to share your thoughts, please fill out the form below.
+We look forward to hearing from you! To learn more about our products and services, please fill out the form below.
 
 <form
   action="https://formspree.io/f/xeqwyojr"
