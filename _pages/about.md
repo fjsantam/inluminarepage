@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### The question that inspires us
+## The question that inspires us
 
 __How do we know how effective a nonprofit’s program is?__
 
@@ -22,13 +22,13 @@ Understanding the resources used to deliver programs shapes strategic planning b
 
 These questions and so many more can only be answered partially, because right now, the data we have available to inform their answers is hidden, lost, or too hard to gather. This is where Inluminare comes in.
 
-### How we define resources
+## How we define resources
 
 To understand what is essential for a program’s *sustainability*, *longevity*, and *scalability*, we need to analyze the resources that it uses. 
 
-At Inluminare, we see resources as the inputs used by an organization to produce. Our definition is that a **resource** is an asset controlled by a firm: everything that an organization controls and uses in the process of delivering some kind of desired output. This includes physical items and buildings, employee knowledge and skills, and how your organization is set up to be successful. Precision is key: specific skillsets over job titles, brand names and model numbers over “just an oven.” Our custom approach to thinking through financial and non-financial value allows us to tease apart which resources were most important for your success and which could be replaced to improve your outputs. 
+At Inluminare, we see resources as the inputs used by an organization to produce. Our definition is that a **resource** is an asset controlled by a firm: everything that an organization controls and uses in the process of delivering some kind of desired output. This includes physical items and buildings, employee knowledge and skills, and how your organization is set up to be successful. Precision is key: specific skillsets over job titles, brand names and model numbers over “just an oven.” Our custom approach to thinking through financial and non-financial value allows us to tease apart which resources were most important for your success and which could be replaced to improve your outputs. To learn more, [visit our guide to resources and logic models](/resources/).
 
-### Bio
+## Bio
 
 Francisco has worked with various kinds of nonprofits, from hospitals to community theaters, each with their own unique challenges and goals. He first began working with them as an implementation consultant with Epic Systems and later while a consultant with Booz Allen Hamilton, supporting federal government financial monitoring and supports.  
 As his interest in the intersection of social programs and financial management grew, he pursued an MPA at the Maxwell School at Syracuse University and later a PhD at the Evans School at University of Washington. 
