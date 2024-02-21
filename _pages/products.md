@@ -3,6 +3,8 @@ layout: single
 title: "Products and Services"
 permalink: /products/
 author_profile: true
+toc: true
+toc_sticky: false
 ---
 
 ## Reta
