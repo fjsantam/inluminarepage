@@ -3,8 +3,12 @@ title: 'Understanding the resources necessary for success'
 date: 2023-06-26
 permalink: /posts/2023/06/Understanding-the-resources-necessary-for-success
 tags:
-  - resources  
+  - resources
+  - success
+  - invisible_assets
 ---
+
+*[Full series with images available here](https://inluminare.co/resources/)*
 
 ## Inluminare sheds light on the resources you need for success. 
 
