@@ -4,7 +4,7 @@ date: 2023-07-03
 permalink: /posts/2023/07/Custom-approach-to-input-evaluation
 tags:
   - resources
-  - inputevaluation
+  - input_evaluation
 ---
 
 ## Inluminare has a custom, innovative approach to input evaluation. 
