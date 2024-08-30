@@ -1,7 +1,7 @@
 ---
 title: 'Understanding the resources necessary for success'
 date: 2023-06-26
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/06/Understanding-the-resources-necessary-for-success
 tags:
   - resources
 ---
