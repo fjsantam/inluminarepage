@@ -6,10 +6,11 @@ tags:
   - resources  
 ---
 
-"Inluminare sheds light on the resources you need for success." 
-======
+## Inluminare sheds light on the resources you need for success. 
 
-**WHAT DOES THAT MEAN?** (P.S. yummy pasta recipe at the link below 😋)
+### WHAT DOES THAT MEAN?
+
+#### *(P.S. yummy pasta recipe at the link below* 😋*)*
 
 Let's start by breaking down, what is a resource? A lot of thoughtful authors have compiled definitions - I personally like Barney's list in their 1991 article. But, for the sake of non-academics, let's compress that information into something more accessible.
 
