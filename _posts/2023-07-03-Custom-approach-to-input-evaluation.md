@@ -5,8 +5,6 @@ permalink: /posts/2023/07/Custom-approach-to-input-evaluation
 tags:
   - resources
   - input_evaluation
-  - process_improvement
-  - resource_management
 ---
 
 *[Full series with images available here](https://inluminare.co/resources/)*
