@@ -4,10 +4,8 @@ date: 2023-07-10
 permalink: /posts/2023/07/Identifying-essential-data
 tags:
   - resources
-  - nonprofits
-  - nonprofit_success
+  - nonprofits  
   - input_evaluation
-  - performance_management
 ---
 
 *[Full series with images available here](https://inluminare.co/resources/)*
