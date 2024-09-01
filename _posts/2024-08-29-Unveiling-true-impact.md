@@ -33,7 +33,7 @@ At the heart of program effectiveness lies a critical examination of resources -
 
 By thoroughly examining resource utilization, nonprofits can make informed decisions about program design, implementation, and expansion. 
 
-## Beyond Traditional Metrics: The Inluminare Approach
+## Beyond Traditional Metrics: The [Inluminare](https://inluminare.co/) Approach
 
 While the logic model provides a solid foundation for program evaluation, innovative organizations like [Inluminare](https://inluminare.co/) are pushing the boundaries of what's possible in understanding and optimizing nonprofit effectiveness. 
 
