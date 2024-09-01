@@ -166,3 +166,5 @@ Understanding program effectiveness is more than just a matter of tracking input
 * Secure the resources they need for long-term success
 •	Scale their programs with confidence
 As we continue to tackle complex social challenges, this deeper understanding of program effectiveness will be crucial in creating lasting, meaningful change. The future of nonprofit impact is bright, and it starts with a clear view of the resources that make it all possible. 
+
+[Connect with us today to learn more!](https://inluminare.co/contact/)
