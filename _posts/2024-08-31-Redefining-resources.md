@@ -11,7 +11,7 @@ tags:
 
 In the world of nonprofit organizations, the term "resources" often conjures images of financial donations or physical assets. However, a revolutionary approach is emerging that challenges this limited view and promises to transform how nonprofits operate and achieve their missions. At the forefront of this paradigm shift is [Inluminare](https://inluminare.co/), a company dedicated to empowering organizations to understand and leverage the full spectrum of resources at their disposal. In this comprehensive exploration, we'll delve into [Inluminare](https://inluminare.co/)'s innovative definition of resources, examine why this broader perspective is crucial for nonprofit success, and discover how organizations can harness this approach to magnify their impact. From tangible assets to intangible capabilities, we'll uncover the hidden potential that lies within every nonprofit. 
 
-## Redefining Resources: The Inluminare Approach
+## Redefining Resources: The [Inluminare](https://inluminare.co/) Approach
 ### A New Perspective on Organizational Assets
 
 [Inluminare](https://inluminare.co/) challenges the traditional notion of resources with a more inclusive and nuanced definition. Our philosophy considers a resource to be "an asset controlled by a firm: everything that an organization controls and uses in the process of delivering some kind of desired output." This expansive view encompasses: 
