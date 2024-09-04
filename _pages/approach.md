@@ -11,7 +11,7 @@ The approach that we take to our work is reflected in our mission, the vision of
 
 ### Our mission and vision
 
-Inluminare's **mission** is visible on every page of this website: 
+Inluminare's [in-**loo**-min-**ah**-rey] **mission**: 
 
 > We empower organizations to understand the resources necessary to sustain and magnify their impact.
 
