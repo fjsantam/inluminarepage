@@ -33,7 +33,7 @@ It builds on nonprofits’ existing data to capture the range of resources used 
 *How important was a particular resource, and how much did it cost?*
 
 ###	How it will help
-By creating a resource portfolio that reflects the resources used to deliver a program, organizations can understand resource value beyond just financial data.  
+By creating a resource inventory that reflects the resources used to deliver a program, organizations can understand resource value beyond just financial data.  
 *What was the most important resource when I consider its cost as only one of multiple factors?*
 
 ###	How it does it
@@ -41,16 +41,22 @@ Reta categorizes and assigns meaningful values to the resources used by nonprofi
 *When I think about a resource from another perspective, what value would I assign it?*
 
 ### What to expect after using it
-With a completed resource portfolio for a program, nonprofits and foundations will be able to determine what was necessary for that program’s success, how to ensure its sustainability in the future, what are essential resources and varying costs that would be associated with scaling up, and better direct strategic planning and development efforts to secure essential resources, both now and in the future. They can also perform more accurate and comprehensive performance evaluations to better calculate returns per dollar spent, the scale of their impact, and financial ratios such as program-expense ratios.  
+With a completed resource inventory for a given program, nonprofits and foundations will be able to determine 
+* What was necessary for that program’s success,
+* How to ensure its sustainability in the future,
+* What are essential resources and varying costs that would be associated with scaling up, and
+* Better direct strategic planning and development efforts to secure essential resources, both now and in the future.
+
+They can also perform more accurate and comprehensive performance evaluations to better calculate returns per dollar spent, the scale of their impact, and financial ratios such as program-expense ratios.  
 *What resources do I need to secure to make this program work somewhere else?*
 
 ## Implementation Support Services	
-Inluminare wants to be a partner with our users to better support them. To complement our software, we offer implementation support services to help new organizations take advantage of our software by:
+Inluminare wants to be a partner with our users to better support them. To complement our products, we offer implementation support services to help organizations take advantage of these data-driven insights by:
 *	Integrating with existing reporting and evaluation practices
 *	Helping users develop new workflows to capture essential data
 *	Providing guidance on generating meaningful insights through reporting and analysis
 *	Creating opportunities for all levels of your organization to find opportunities to benefit
 
-We intend to offer these services at software launch.
+[Contact us today](https://inluminare.co/contact/) to learn more about how Inluminare can partner with your organization.
 
 
