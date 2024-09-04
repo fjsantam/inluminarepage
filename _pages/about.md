@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Inluminare [in-**loo**-min-**ah**-rey] was born from a desire to bridge scientific research and real-world need. We bring that passion into everything we do. 
+
 ## The questions that inspires us
 
 > __How do we know how effective a nonprofit’s program is?__
