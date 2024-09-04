@@ -26,7 +26,7 @@ For nonprofits and government agencies, a similar tool is used before starting a
 
 At the link below, we show how logic model best practices capture how resources are the first step in any effort to produce outputs and achieve some kind of outcome. At the same time, it is only meant to capture “certain,” major resources – ones that are obvious beforehand but, again, may not prove to be as important in retrospect.
 
-So, [Inluminare](https://inluminare.co/), when is the best time to do this input evaluation and get some resource portfolios for my programs, services, and lines of business? We cover that at the link below, as well as in our next post 😎 .
+So, [Inluminare](https://inluminare.co/), when is the best time to do this input evaluation and get some resource inventories for my programs, services, and lines of business? We cover that at the link below, as well as in our next post 😎 .
 
 #nonprofits #nonprofitsuccess #inputevaluation #performancemanagement 
 
