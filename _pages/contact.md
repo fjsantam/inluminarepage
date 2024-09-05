@@ -12,7 +12,7 @@ We look forward to hearing from you! To learn more about our products and servic
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us and learn more</a>
+<a style="font-weight:bold" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us and learn more</a>
 <!-- Calendly link widget end -->
 
 <!-- Calendly link widget begin -->
