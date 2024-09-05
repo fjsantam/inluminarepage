@@ -9,16 +9,18 @@ author_profile: true
 
 We look forward to hearing from you! To learn more about our products and services, please fill out the form below.
 
+
+<!-- I added `style="font-weight:bold" ` after a and before href to make the hyperlinks bold-->
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a style="font-weight:bold" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us and learn more</a>
+<a style="font-weight:bold" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;"; text-align:center>Chat with us and learn more</a>
 <!-- Calendly link widget end -->
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/product-demo?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=515aa8'});return false;">Check out a demo</a>
+<a style="font-weight:bold" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/product-demo?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=515aa8'});return false;">Check out a demo</a>
 <!-- Calendly link widget end -->
 
 
