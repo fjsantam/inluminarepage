@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 <!-- I added `style="font-weight:bold; text-align:center; display:block" ` after a and before href to
 * make the hyperlinks bold
