@@ -109,7 +109,7 @@
 /* adding custom Inluminare colors */
 
   &--inluminare {
-    color: $inluminare-blue-color !important;
+    color: $inluminare-blue-color;
      background-color: $inluminare-gradient-color;
 
     &:hover {
