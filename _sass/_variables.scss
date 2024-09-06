@@ -68,7 +68,8 @@ $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
 
 /* custom Inluminare gradient color */
-$inluminare-gradient-color  : linear-gradient(.25turn, #FFF23C,  #FAC60E 51.6225%, #F49040);
+/* from: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient */
+/*$inluminare-gradient-color  : linear-gradient(.25turn, #FFF23C,  #FAC60E 51.6225%, #F49040);*/
 $inluminare-blue-color      : #515AA8
 
 /* brands */
