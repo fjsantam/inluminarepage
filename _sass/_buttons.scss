@@ -114,7 +114,7 @@
     background: $inluminare-gradient-color !important;
 
     &:hover {
-      background-color: mix(#000, $inluminare-gradient-color, 20%);
+      background: mix(#000, $danger-color, 20%);
     }
   }
 
