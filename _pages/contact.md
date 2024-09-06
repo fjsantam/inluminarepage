@@ -14,7 +14,6 @@ author_profile: true
 Alt: use <center></center> around "a" and set class="btn btn--inluminare" to make a centered button
 -->
 If you are curious about how our products can help you improve your organization's performance, then you can:
-
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
@@ -23,9 +22,7 @@ If you are curious about how our products can help you improve your organization
 </center>
 <!-- Calendly link widget end -->
 <br>
-<br>
 Our tailored demonstrations let you experience our products in action and how they will serve you. 
-
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
@@ -36,9 +33,9 @@ Our tailored demonstrations let you experience our products in action and how th
 
 <br>
 
-We look forward to hearing from you! To learn more about our products and services, please fill out the form below.
+You can also reach out with the form below, and we will respond via email. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXOG-MSCmcCZH6FjbAX04635WesXKle-5qLvSPYW298nD6Og/viewform?embedded=true" width="640" height="1084" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_teY6EVCpwvbGZojmPpWMb1DntoWPQdD4m7QF83CCPmDNLQ/viewform?embedded=true" width="640" height="1751" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- Calendly inline widget begin -->
 <!-- 
