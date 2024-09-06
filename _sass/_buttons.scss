@@ -105,6 +105,20 @@
     }
   }
 
+
+/* adding custom Inluminare colors */
+
+  &--inluminare {
+    color: $inluminare-blue-color !important;
+     background-color: $inluminare-gradient-color;
+
+    &:hover {
+      background-color: mix(#000, $inluminare-gradient-color, 20%);
+    }
+  }
+
+
+   
   /* disabled */
 
   &--disabled {
