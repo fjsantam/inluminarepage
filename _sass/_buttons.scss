@@ -110,7 +110,7 @@
 
   &--inluminare {
     color: $inluminare-blue-color !important;
-    font-size: $type-size-4;
+    font-size: $type-size-4 !important;
     background: $inluminare-gradient-color !important;
 
     /*&:hover {
