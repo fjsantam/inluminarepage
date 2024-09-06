@@ -110,11 +110,11 @@
 
   &--inluminare {
     color: $inluminare-blue-color !important;
-    background-color: $inluminare-gradient-color !important;
+    background: $inluminare-gradient-color !important;
 
-    /*&:hover {
-      background-color: mix(#000, inluminare-gradient-color, 20%);
-    }*/
+    &:hover {
+      background: mix(#000, $inluminare-gradient-color, 20%);
+    }
   }
 
 
