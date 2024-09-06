@@ -106,10 +106,11 @@
   }
 
 
-/* adding custom Inluminare colors */
+/* adding custom Inluminare colors, increasing font size from 4 to 6 */
 
   &--inluminare {
     color: $inluminare-blue-color !important;
+    font-size: $type-size-4;
     background: $inluminare-gradient-color !important;
 
     /*&:hover {
