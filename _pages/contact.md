@@ -16,7 +16,7 @@ If you are curious about how our products can help you improve your organization
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a style="font-weight:bold; text-align:center; display:block" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us to learn more</a>
+<a class="btn btn--inluminare" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us to learn more</a>
 <!-- Calendly link widget end -->
 
 Our tailored demonstrations let you experience our products in action and how they will serve you. 
