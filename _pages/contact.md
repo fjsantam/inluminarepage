@@ -7,24 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- I added `style="font-weight:bold; text-align:center; display:block" ` after a and before href to
+* make the hyperlinks bold
+* center the text
+-->
+If you are curious about how our products can help you improve your organization's performance, then you can:
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a style="font-weight:bold; text-align:center; display:block" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us to learn more</a>
+<!-- Calendly link widget end -->
+
+Our tailored demonstrations let you experience our products in action and how they will serve you. 
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a style="font-weight:bold; text-align:center; display:block" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/product-demo?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=515aa8'});return false;">Schedule a demo today</a>
+<!-- Calendly link widget end -->
+
+
 We look forward to hearing from you! To learn more about our products and services, please fill out the form below.
-
-
-<!-- I added `style="font-weight:bold" ` after a and before href to make the hyperlinks bold-->
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a style="font-weight:bold; text-align:center; display:block" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us and learn more</a>
-<!-- Calendly link widget end -->
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a style="font-weight:bold" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/product-demo?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=515aa8'});return false;">Check out a demo</a>
-<!-- Calendly link widget end -->
-
-
-
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXOG-MSCmcCZH6FjbAX04635WesXKle-5qLvSPYW298nD6Og/viewform?embedded=true" width="640" height="1084" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
