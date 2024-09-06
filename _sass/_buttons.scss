@@ -110,10 +110,10 @@
 
   &--inluminare {
     color: $inluminare-blue-color;
-     background-color: linear-gradient(.25turn, #FFF23C,  #FAC60E 51.6225%, #F49040);
+     background-color: $inluminare-gradient-color;
 
-    &:hover {
-      background-color: mix(#000, linear-gradient(.25turn, #FFF23C,  #FAC60E 51.6225%, #F49040), 20%);
+    /*&:hover {
+      background-color: mix(#000, inluminare-gradient-color, 20%);*/
     }
   }
 
