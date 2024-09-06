@@ -10,6 +10,8 @@ author_profile: true
 <!-- I added `style="font-weight:bold; text-align:center; display:block" ` after a and before href to
 * make the hyperlinks bold
 * center the text
+
+Alt: use <center></center> around "a" and set class="btn btn--inluminare" to make a centered button
 -->
 If you are curious about how our products can help you improve your organization's performance, then you can:
 
@@ -20,16 +22,19 @@ If you are curious about how our products can help you improve your organization
 <a class="btn btn--inluminare" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/30min?hide_gdpr_banner=1&primary_color=f49040'});return false;">Chat with us to learn more</a>
 </center>
 <!-- Calendly link widget end -->
-
-
+<br>
+<br>
 Our tailored demonstrations let you experience our products in action and how they will serve you. 
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a style="font-weight:bold; text-align:center; display:block" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/product-demo?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=515aa8'});return false;">Schedule a demo today</a>
+<center>
+<a class="btn btn--inluminare" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fjsantam/product-demo?hide_gdpr_banner=1&primary_color=515aa8'});return false;">Schedule a demo today</a>
+</center>
 <!-- Calendly link widget end -->
 
+<br>
 
 We look forward to hearing from you! To learn more about our products and services, please fill out the form below.
 
