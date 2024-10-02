@@ -55,12 +55,13 @@ With fuller financial data, key insights such as cost-benefit analyses and finan
 *What was the total cost to deliver the program, now that we have values for even the hard-to-measure resources?*
 
 
-## Implementation Support Services	
-Inluminare wants to be a partner with our users to better support them. To complement our products, we offer implementation support services to help organizations take advantage of these data-driven insights by:
-*	Integrating with existing reporting and evaluation practices
-*	Helping users develop new workflows to capture essential data
-*	Providing guidance on generating meaningful insights through reporting and analysis
-*	Creating opportunities for all levels of your organization to find opportunities to benefit
+## Technical Services	
+Inluminare wants to be a partner with our users to better support them. To complement our products, we offer technical services and implementation support to help organizations take advantage of these data-driven insights by:
+* Guiding you and your staff through meaningful discussions to tell the story of your work
+*	Integrating efforts with existing reporting and evaluation practices
+*	Helping users develop new workflows
+*	Providing guidance on meaningful reporting and analysis
+*	Creating opportunities for all levels of your organization to benefit
 
 [Contact us today](https://inluminare.co/contact/) to learn more about how Inluminare can partner with your organization.
 
