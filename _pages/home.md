@@ -14,7 +14,6 @@ author_profile: true
     src="https://www.canva.com/design/DAGSVuvgQvk/pS9B5CQUXKKCR7HKU9xVCQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGSVuvgQvk&#x2F;pS9B5CQUXKKCR7HKU9xVCQ&#x2F;watch?utm_content=DAGSVuvgQvk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Inluminare Pitch Latino demo video</a> by Francisco Santamarina
 
 ## Who we are
 
